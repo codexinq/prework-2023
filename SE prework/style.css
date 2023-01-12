@@ -1,0 +1,18 @@
+body{
+    color:purple
+    margin:auto;
+    width:580px;
+    padding:80px;
+}
+a{color:purple}
+.c1,h1{
+    color:darkblue;
+}
+p{font-family: verdana;}
+li{font-style: italic;}
+/* .c2{background-color: yellowgreen;} */
+
+/* div{
+    display: flex;
+    justify-content:center;
+} */
